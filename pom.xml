@@ -4,7 +4,11 @@
 	<groupId>in.mpcechno</groupId>
 	<artifactId>myapp</artifactId>
 	<packaging>war</packaging>
+<<<<<<< HEAD
 	<version>0.0.5</version>
+=======
+	<version>0.0.9</version>
+>>>>>>> f232e56ec3bd4c1ecf2c642436695bd34664df64
 	<name>my-app</name>
 	<url>http://maven.apache.org</url>	
 	<dependencies>
